@@ -6,6 +6,9 @@ Checkout their ReadMe. It should work almost the same.
 
 ## Install
 
+Your terminal should be set to the right colorsheme. For iterm use can use [this](https://github.com/mcchrish/iterm-snow), for the rest you can use the
+color-setting script [here](https://github.com/nightsense/snow#shell).
+
 ### tpm
 
 Add to your `~/.tmux.conf`:
