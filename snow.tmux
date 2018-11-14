@@ -7,7 +7,7 @@
 #   https://tmux.github.io
 
 SNOW_TMUX_COLOR_THEME_FILE=src/snow.conf
-SNOW_TMUX_VERSION=0.2.0
+SNOW_TMUX_VERSION=0.1.0
 SNOW_TMUX_STATUS_CONTENT_FILE="src/snow-status-content.conf"
 SNOW_TMUX_STATUS_CONTENT_NO_PATCHED_FONT_FILE="src/snow-status-content-no-patched-font.conf"
 SNOW_TMUX_STATUS_CONTENT_OPTION="@snow_tmux_show_status_content"
